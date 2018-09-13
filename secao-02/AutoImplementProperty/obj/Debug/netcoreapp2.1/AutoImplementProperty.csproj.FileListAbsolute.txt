@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-02/AutoImplementProperty/bin/Debug/netcoreapp2.1/AutoImplementProperty.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/AutoImplementProperty/bin/Debug/netcoreapp2.1/AutoImplementProperty.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/AutoImplementProperty/bin/Debug/netcoreapp2.1/AutoImplementProperty.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/AutoImplementProperty/bin/Debug/netcoreapp2.1/AutoImplementProperty.dll
+/home/yreis/estudo/CSharpIntermediario/secao-02/AutoImplementProperty/bin/Debug/netcoreapp2.1/AutoImplementProperty.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-02/AutoImplementProperty/obj/Debug/netcoreapp2.1/AutoImplementProperty.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/AutoImplementProperty/obj/Debug/netcoreapp2.1/AutoImplementProperty.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/AutoImplementProperty/obj/Debug/netcoreapp2.1/AutoImplementProperty.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/AutoImplementProperty/obj/Debug/netcoreapp2.1/AutoImplementProperty.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-02/AutoImplementProperty/obj/Debug/netcoreapp2.1/AutoImplementProperty.dll
+/home/yreis/estudo/CSharpIntermediario/secao-02/AutoImplementProperty/obj/Debug/netcoreapp2.1/AutoImplementProperty.pdb

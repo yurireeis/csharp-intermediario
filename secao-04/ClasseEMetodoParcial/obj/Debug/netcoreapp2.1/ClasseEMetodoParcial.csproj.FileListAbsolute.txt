@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseEMetodoParcial/bin/Debug/netcoreapp2.1/ClasseEMetodoParcial.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseEMetodoParcial/bin/Debug/netcoreapp2.1/ClasseEMetodoParcial.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseEMetodoParcial/bin/Debug/netcoreapp2.1/ClasseEMetodoParcial.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseEMetodoParcial/bin/Debug/netcoreapp2.1/ClasseEMetodoParcial.dll
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseEMetodoParcial/bin/Debug/netcoreapp2.1/ClasseEMetodoParcial.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseEMetodoParcial/obj/Debug/netcoreapp2.1/ClasseEMetodoParcial.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseEMetodoParcial/obj/Debug/netcoreapp2.1/ClasseEMetodoParcial.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseEMetodoParcial/obj/Debug/netcoreapp2.1/ClasseEMetodoParcial.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseEMetodoParcial/obj/Debug/netcoreapp2.1/ClasseEMetodoParcial.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseEMetodoParcial/obj/Debug/netcoreapp2.1/ClasseEMetodoParcial.dll
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseEMetodoParcial/obj/Debug/netcoreapp2.1/ClasseEMetodoParcial.pdb

@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-04/Enumeradores/bin/Debug/netcoreapp2.1/Enumeradores.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/Enumeradores/bin/Debug/netcoreapp2.1/Enumeradores.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/Enumeradores/bin/Debug/netcoreapp2.1/Enumeradores.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/Enumeradores/bin/Debug/netcoreapp2.1/Enumeradores.dll
+/home/yreis/estudo/CSharpIntermediario/secao-04/Enumeradores/bin/Debug/netcoreapp2.1/Enumeradores.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-04/Enumeradores/obj/Debug/netcoreapp2.1/Enumeradores.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/Enumeradores/obj/Debug/netcoreapp2.1/Enumeradores.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/Enumeradores/obj/Debug/netcoreapp2.1/Enumeradores.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/Enumeradores/obj/Debug/netcoreapp2.1/Enumeradores.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-04/Enumeradores/obj/Debug/netcoreapp2.1/Enumeradores.dll
+/home/yreis/estudo/CSharpIntermediario/secao-04/Enumeradores/obj/Debug/netcoreapp2.1/Enumeradores.pdb

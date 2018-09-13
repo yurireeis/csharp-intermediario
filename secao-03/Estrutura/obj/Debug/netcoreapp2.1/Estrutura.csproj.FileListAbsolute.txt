@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-03/Estrutura/obj/Debug/netcoreapp2.1/Estrutura.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-03/Estrutura/obj/Debug/netcoreapp2.1/Estrutura.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-03/Estrutura/obj/Debug/netcoreapp2.1/Estrutura.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-03/Estrutura/obj/Debug/netcoreapp2.1/Estrutura.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-03/Estrutura/bin/Debug/netcoreapp2.1/Estrutura.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-03/Estrutura/bin/Debug/netcoreapp2.1/Estrutura.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-03/Estrutura/bin/Debug/netcoreapp2.1/Estrutura.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-03/Estrutura/bin/Debug/netcoreapp2.1/Estrutura.dll
+/home/yreis/estudo/CSharpIntermediario/secao-03/Estrutura/bin/Debug/netcoreapp2.1/Estrutura.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-03/Estrutura/obj/Debug/netcoreapp2.1/Estrutura.dll
+/home/yreis/estudo/CSharpIntermediario/secao-03/Estrutura/obj/Debug/netcoreapp2.1/Estrutura.pdb

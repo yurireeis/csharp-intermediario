@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseSealed/bin/Debug/netcoreapp2.1/ClasseSealed.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseSealed/bin/Debug/netcoreapp2.1/ClasseSealed.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseSealed/bin/Debug/netcoreapp2.1/ClasseSealed.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseSealed/bin/Debug/netcoreapp2.1/ClasseSealed.dll
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseSealed/bin/Debug/netcoreapp2.1/ClasseSealed.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseSealed/obj/Debug/netcoreapp2.1/ClasseSealed.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseSealed/obj/Debug/netcoreapp2.1/ClasseSealed.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseSealed/obj/Debug/netcoreapp2.1/ClasseSealed.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseSealed/obj/Debug/netcoreapp2.1/ClasseSealed.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseSealed/obj/Debug/netcoreapp2.1/ClasseSealed.dll
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseSealed/obj/Debug/netcoreapp2.1/ClasseSealed.pdb

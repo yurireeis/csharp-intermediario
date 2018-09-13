@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-04/Interface/bin/Debug/netcoreapp2.1/Interface.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/Interface/bin/Debug/netcoreapp2.1/Interface.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/Interface/bin/Debug/netcoreapp2.1/Interface.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/Interface/bin/Debug/netcoreapp2.1/Interface.dll
+/home/yreis/estudo/CSharpIntermediario/secao-04/Interface/bin/Debug/netcoreapp2.1/Interface.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-04/Interface/obj/Debug/netcoreapp2.1/Interface.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/Interface/obj/Debug/netcoreapp2.1/Interface.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/Interface/obj/Debug/netcoreapp2.1/Interface.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/Interface/obj/Debug/netcoreapp2.1/Interface.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-04/Interface/obj/Debug/netcoreapp2.1/Interface.dll
+/home/yreis/estudo/CSharpIntermediario/secao-04/Interface/obj/Debug/netcoreapp2.1/Interface.pdb

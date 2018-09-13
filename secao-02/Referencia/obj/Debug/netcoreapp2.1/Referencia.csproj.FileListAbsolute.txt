@@ -1,0 +1,14 @@
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/bin/Debug/netcoreapp2.1/Referencia.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/bin/Debug/netcoreapp2.1/Referencia.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/bin/Debug/netcoreapp2.1/Referencia.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/bin/Debug/netcoreapp2.1/Referencia.dll
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/bin/Debug/netcoreapp2.1/Referencia.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/bin/Debug/netcoreapp2.1/ClassLib.dll
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/bin/Debug/netcoreapp2.1/ClassLib.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/obj/Debug/netcoreapp2.1/Referencia.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/obj/Debug/netcoreapp2.1/Referencia.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/obj/Debug/netcoreapp2.1/Referencia.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/obj/Debug/netcoreapp2.1/Referencia.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/obj/Debug/netcoreapp2.1/Referencia.csproj.CopyComplete
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/obj/Debug/netcoreapp2.1/Referencia.dll
+/home/yreis/estudo/CSharpIntermediario/secao-02/Referencia/obj/Debug/netcoreapp2.1/Referencia.pdb

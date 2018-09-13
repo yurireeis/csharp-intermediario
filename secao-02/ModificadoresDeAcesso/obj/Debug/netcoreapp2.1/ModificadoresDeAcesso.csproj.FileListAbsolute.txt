@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-02/ModificadoresDeAcesso/bin/Debug/netcoreapp2.1/ModificadoresDeAcesso.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/ModificadoresDeAcesso/bin/Debug/netcoreapp2.1/ModificadoresDeAcesso.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/ModificadoresDeAcesso/bin/Debug/netcoreapp2.1/ModificadoresDeAcesso.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/ModificadoresDeAcesso/bin/Debug/netcoreapp2.1/ModificadoresDeAcesso.dll
+/home/yreis/estudo/CSharpIntermediario/secao-02/ModificadoresDeAcesso/bin/Debug/netcoreapp2.1/ModificadoresDeAcesso.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-02/ModificadoresDeAcesso/obj/Debug/netcoreapp2.1/ModificadoresDeAcesso.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/ModificadoresDeAcesso/obj/Debug/netcoreapp2.1/ModificadoresDeAcesso.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/ModificadoresDeAcesso/obj/Debug/netcoreapp2.1/ModificadoresDeAcesso.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/ModificadoresDeAcesso/obj/Debug/netcoreapp2.1/ModificadoresDeAcesso.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-02/ModificadoresDeAcesso/obj/Debug/netcoreapp2.1/ModificadoresDeAcesso.dll
+/home/yreis/estudo/CSharpIntermediario/secao-02/ModificadoresDeAcesso/obj/Debug/netcoreapp2.1/ModificadoresDeAcesso.pdb

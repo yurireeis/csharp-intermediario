@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-02/ReadOnly/bin/Debug/netcoreapp2.1/ReadOnly.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/ReadOnly/bin/Debug/netcoreapp2.1/ReadOnly.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/ReadOnly/bin/Debug/netcoreapp2.1/ReadOnly.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/ReadOnly/bin/Debug/netcoreapp2.1/ReadOnly.dll
+/home/yreis/estudo/CSharpIntermediario/secao-02/ReadOnly/bin/Debug/netcoreapp2.1/ReadOnly.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-02/ReadOnly/obj/Debug/netcoreapp2.1/ReadOnly.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/ReadOnly/obj/Debug/netcoreapp2.1/ReadOnly.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/ReadOnly/obj/Debug/netcoreapp2.1/ReadOnly.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/ReadOnly/obj/Debug/netcoreapp2.1/ReadOnly.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-02/ReadOnly/obj/Debug/netcoreapp2.1/ReadOnly.dll
+/home/yreis/estudo/CSharpIntermediario/secao-02/ReadOnly/obj/Debug/netcoreapp2.1/ReadOnly.pdb

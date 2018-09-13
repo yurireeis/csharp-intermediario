@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-02/Encapsulamento/bin/Debug/netcoreapp2.1/Encapsulamento.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/Encapsulamento/bin/Debug/netcoreapp2.1/Encapsulamento.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/Encapsulamento/bin/Debug/netcoreapp2.1/Encapsulamento.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-02/Encapsulamento/bin/Debug/netcoreapp2.1/Encapsulamento.dll
+/home/yreis/estudo/CSharpIntermediario/secao-02/Encapsulamento/bin/Debug/netcoreapp2.1/Encapsulamento.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-02/Encapsulamento/obj/Debug/netcoreapp2.1/Encapsulamento.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/Encapsulamento/obj/Debug/netcoreapp2.1/Encapsulamento.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/Encapsulamento/obj/Debug/netcoreapp2.1/Encapsulamento.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-02/Encapsulamento/obj/Debug/netcoreapp2.1/Encapsulamento.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-02/Encapsulamento/obj/Debug/netcoreapp2.1/Encapsulamento.dll
+/home/yreis/estudo/CSharpIntermediario/secao-02/Encapsulamento/obj/Debug/netcoreapp2.1/Encapsulamento.pdb

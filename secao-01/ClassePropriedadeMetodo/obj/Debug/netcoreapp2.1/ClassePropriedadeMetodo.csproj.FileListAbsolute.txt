@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-01/ClassePropriedadeMetodo/bin/Debug/netcoreapp2.1/ClassePropriedadeMetodo.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-01/ClassePropriedadeMetodo/bin/Debug/netcoreapp2.1/ClassePropriedadeMetodo.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-01/ClassePropriedadeMetodo/bin/Debug/netcoreapp2.1/ClassePropriedadeMetodo.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-01/ClassePropriedadeMetodo/bin/Debug/netcoreapp2.1/ClassePropriedadeMetodo.dll
+/home/yreis/estudo/CSharpIntermediario/secao-01/ClassePropriedadeMetodo/bin/Debug/netcoreapp2.1/ClassePropriedadeMetodo.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-01/ClassePropriedadeMetodo/obj/Debug/netcoreapp2.1/ClassePropriedadeMetodo.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-01/ClassePropriedadeMetodo/obj/Debug/netcoreapp2.1/ClassePropriedadeMetodo.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-01/ClassePropriedadeMetodo/obj/Debug/netcoreapp2.1/ClassePropriedadeMetodo.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-01/ClassePropriedadeMetodo/obj/Debug/netcoreapp2.1/ClassePropriedadeMetodo.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-01/ClassePropriedadeMetodo/obj/Debug/netcoreapp2.1/ClassePropriedadeMetodo.dll
+/home/yreis/estudo/CSharpIntermediario/secao-01/ClassePropriedadeMetodo/obj/Debug/netcoreapp2.1/ClassePropriedadeMetodo.pdb

@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-06/MaisSobreHeranca/bin/Debug/netcoreapp2.1/MaisSobreHeranca.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-06/MaisSobreHeranca/bin/Debug/netcoreapp2.1/MaisSobreHeranca.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-06/MaisSobreHeranca/bin/Debug/netcoreapp2.1/MaisSobreHeranca.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-06/MaisSobreHeranca/bin/Debug/netcoreapp2.1/MaisSobreHeranca.dll
+/home/yreis/estudo/CSharpIntermediario/secao-06/MaisSobreHeranca/bin/Debug/netcoreapp2.1/MaisSobreHeranca.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-06/MaisSobreHeranca/obj/Debug/netcoreapp2.1/MaisSobreHeranca.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-06/MaisSobreHeranca/obj/Debug/netcoreapp2.1/MaisSobreHeranca.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-06/MaisSobreHeranca/obj/Debug/netcoreapp2.1/MaisSobreHeranca.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-06/MaisSobreHeranca/obj/Debug/netcoreapp2.1/MaisSobreHeranca.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-06/MaisSobreHeranca/obj/Debug/netcoreapp2.1/MaisSobreHeranca.dll
+/home/yreis/estudo/CSharpIntermediario/secao-06/MaisSobreHeranca/obj/Debug/netcoreapp2.1/MaisSobreHeranca.pdb

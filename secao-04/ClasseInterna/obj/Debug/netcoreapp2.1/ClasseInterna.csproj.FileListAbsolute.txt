@@ -1,0 +1,11 @@
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseInterna/bin/Debug/netcoreapp2.1/ClasseInterna.deps.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseInterna/bin/Debug/netcoreapp2.1/ClasseInterna.runtimeconfig.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseInterna/bin/Debug/netcoreapp2.1/ClasseInterna.runtimeconfig.dev.json
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseInterna/bin/Debug/netcoreapp2.1/ClasseInterna.dll
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseInterna/bin/Debug/netcoreapp2.1/ClasseInterna.pdb
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseInterna/obj/Debug/netcoreapp2.1/ClasseInterna.csprojAssemblyReference.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseInterna/obj/Debug/netcoreapp2.1/ClasseInterna.csproj.CoreCompileInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseInterna/obj/Debug/netcoreapp2.1/ClasseInterna.AssemblyInfoInputs.cache
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseInterna/obj/Debug/netcoreapp2.1/ClasseInterna.AssemblyInfo.cs
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseInterna/obj/Debug/netcoreapp2.1/ClasseInterna.dll
+/home/yreis/estudo/CSharpIntermediario/secao-04/ClasseInterna/obj/Debug/netcoreapp2.1/ClasseInterna.pdb
